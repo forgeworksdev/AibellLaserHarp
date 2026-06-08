@@ -1,4 +1,4 @@
-# Harpa a Laser Aibell
+# Aibell Laser Harp
 
 Aibell is a laser harp (as in, a harp played by manipulating lazers) powered by Arduino Mega™.
 
